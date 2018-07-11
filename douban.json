@@ -1,0 +1,1984 @@
+{
+  "data": [{
+      "numId": 1,
+      "title": "肖申克的救赎",
+      "titleEnglish": " / The Shawshank Redemption",
+      "titleOther": " / 月黑高飞(港) / 刺激1995(台)",
+      "info": "9.6",
+      "viewNumber": "1062864人评价",
+      "quote": "希望让人自由。"
+    }, {
+      "numId": 2,
+      "title": "霸王别姬",
+      "titleEnglish": " / 再见，我的妾 / Farewell My Concubine",
+      "info": "9.5",
+      "viewNumber": "774612人评价",
+      "quote": "风华绝代。"
+    }, {
+      "numId": 3,
+      "title": "这个杀手不太冷",
+      "titleEnglish": " / Léon",
+      "titleOther": " / 杀手莱昂 / 终极追杀令(台)",
+      "info": "9.4",
+      "viewNumber": "991246人评价",
+      "quote": "怪蜀黍和小萝莉不得不说的故事。"
+    }, {
+      "numId": 4,
+      "title": "阿甘正传",
+      "titleEnglish": " / Forrest Gump",
+      "titleOther": " / 福雷斯特·冈普",
+      "info": "9.4",
+      "viewNumber": "843943人评价",
+      "quote": "一部美国近现代史。"
+    }, {
+      "numId": 5,
+      "title": "美丽人生",
+      "titleEnglish": " / La vita è bella",
+      "titleOther": " / 一个快乐的传说(港) / Life Is Beautiful",
+      "info": "9.5",
+      "viewNumber": "493342人评价",
+      "quote": "最美的谎言。"
+    }, {
+      "numId": 6,
+      "title": "泰坦尼克号",
+      "titleEnglish": " / Titanic",
+      "titleOther": " / 铁达尼号(港 / 台)",
+      "info": "9.3",
+      "viewNumber": "783089人评价",
+      "quote": "失去的才是永恒的。 "
+    }, {
+      "numId": 7,
+      "title": "千与千寻",
+      "titleEnglish": " / 千と千尋の神隠し",
+      "titleOther": " / 神隐少女(台) / Spirited Away",
+      "info": "9.3",
+      "viewNumber": "790765人评价",
+      "quote": "最好的宫崎骏，最好的久石让。 "
+    }, {
+      "numId": 8,
+      "title": "辛德勒的名单",
+      "titleEnglish": " / Schindler's List",
+      "titleOther": " / 舒特拉的名单(港) / 辛德勒名单",
+      "info": "9.4",
+      "viewNumber": "447770人评价",
+      "quote": "拯救一个人，就是拯救整个世界。"
+    }, {
+      "numId": 9,
+      "title": "盗梦空间",
+      "titleEnglish": " / Inception",
+      "titleOther": " / 潜行凶间(港) / 全面启动(台)",
+      "info": "9.3",
+      "viewNumber": "878800人评价",
+      "quote": "诺兰给了我们一场无法盗取的梦。"
+    }, {
+      "numId": 10,
+      "title": "机器人总动员",
+      "titleEnglish": " / WALL·E",
+      "titleOther": " / 瓦力(台) / 太空奇兵·威E(港)",
+      "info": "9.3",
+      "viewNumber": "576692人评价",
+      "quote": "小瓦力，大人生。"
+    }, {
+      "numId": 11,
+      "title": "三傻大闹宝莱坞",
+      "titleEnglish": " / 3 Idiots",
+      "titleOther": " / 三个傻瓜(台) / 作死不离3兄弟(港)",
+      "info": "9.2",
+      "viewNumber": "792195人评价",
+      "quote": "英俊版憨豆，高情商版谢耳朵。"
+    }, {
+      "numId": 12,
+      "title": "海上钢琴师",
+      "titleEnglish": " / La leggenda del pianista sull'oceano",
+      "titleOther": " / 声光伴我飞(港) / 一九零零的传奇",
+      "info": "9.2",
+      "viewNumber": "674423人评价",
+      "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 "
+    }, {
+      "numId": 13,
+      "title": "忠犬八公的故事",
+      "titleEnglish": " / Hachi: A Dog's Tale",
+      "titleOther": " / 忠犬小八(台) / 秋田犬八千(港)",
+      "info": "9.2",
+      "viewNumber": "550820人评价",
+      "quote": "永远都不能忘记你所爱的人。"
+    }, {
+      "numId": 14,
+      "title": "放牛班的春天",
+      "titleEnglish": " / Les choristes",
+      "titleOther": " / 歌声伴我心(港) / 唱诗班男孩",
+      "info": "9.2",
+      "viewNumber": "531049人评价",
+      "quote": "天籁一般的童声，是最接近上帝的存在。 "
+    }, {
+      "numId": 15,
+      "title": "大话西游之大圣娶亲",
+      "titleEnglish": " / 西遊記大結局之仙履奇緣",
+      "titleOther": " / 西游记完结篇仙履奇缘 / 齐天大圣西游记",
+      "info": "9.2",
+      "viewNumber": "581687人评价",
+      "quote": "一生所爱。"
+    }, {
+      "numId": 16,
+      "title": "楚门的世界",
+      "titleEnglish": " / The Truman Show",
+      "titleOther": " / 真人Show(港) / 真人戏",
+      "info": "9.1",
+      "viewNumber": "555964人评价",
+      "quote": "如果再也不能见到你，祝你早安，午安，晚安。"
+    }, {
+      "numId": 17,
+      "title": "龙猫",
+      "titleEnglish": " / となりのトトロ",
+      "titleOther": " / 邻居托托罗 / 邻家的豆豆龙",
+      "info": "9.1",
+      "viewNumber": "490524人评价",
+      "quote": "人人心中都有个龙猫，童年就永远不会消失。"
+    }, {
+      "numId": 18,
+      "title": "教父",
+      "titleEnglish": " / The Godfather",
+      "titleOther": " / Mario Puzo's The Godfather",
+      "info": "9.2",
+      "viewNumber": "397150人评价",
+      "quote": "千万不要记恨你的对手，这样会让你失去理智。"
+    }, {
+      "numId": 19,
+      "title": "星际穿越",
+      "titleEnglish": " / Interstellar",
+      "titleOther": " / 星际启示录(港) / 星际效应(台)",
+      "info": "9.2",
+      "viewNumber": "582858人评价",
+      "quote": "爱是一种力量，让我们超越时空感知它的存在。"
+    }, {
+      "numId": 20,
+      "title": "熔炉",
+      "titleEnglish": " / 도가니",
+      "titleOther": " / 无声呐喊(港) / 漩涡",
+      "info": "9.2",
+      "viewNumber": "323323人评价",
+      "quote": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。"
+    }, {
+      "numId": 21,
+      "title": "触不可及",
+      "titleEnglish": " / Intouchables",
+      "titleOther": " / 闪亮人生(港) / 逆转人生(台)",
+      "info": "9.2",
+      "viewNumber": "431124人评价",
+      "quote": "满满温情的高雅喜剧。"
+    }, {
+      "numId": 22,
+      "title": "乱世佳人",
+      "titleEnglish": " / Gone with the Wind",
+      "titleOther": " / 飘",
+      "info": "9.2",
+      "viewNumber": "307611人评价",
+      "quote": "Tomorrow is another day."
+    }, {
+      "numId": 23,
+      "title": "无间道",
+      "titleEnglish": " / 無間道",
+      "titleOther": " / Infernal Affairs / Mou gaan dou",
+      "info": "9.1",
+      "viewNumber": "474893人评价",
+      "quote": "香港电影史上永不过时的杰作。"
+    }, {
+      "numId": 24,
+      "title": "当幸福来敲门",
+      "titleEnglish": " / The Pursuit of Happyness",
+      "titleOther": " / 寻找快乐的故事(港) / 追求快乐",
+      "info": "8.9",
+      "viewNumber": "627454人评价",
+      "quote": "平民励志片。 "
+    }, {
+      "numId": 25,
+      "title": "怦然心动",
+      "titleEnglish": " / Flipped",
+      "titleOther": " / 萌动青春 / 青春萌动",
+      "info": "8.9",
+      "viewNumber": "661633人评价",
+      "quote": "真正的幸福是来自内心深处。"
+    }, {
+      "numId": 1,
+      "title": "天堂电影院",
+      "titleEnglish": "&nbsp;/&nbsp;Nuovo Cinema Paradiso",
+      "titleOther": "&nbsp;/&nbsp;星光伴我心(港)  /  新天堂乐园(台)",
+      "info": "9.1",
+      "viewNumber": "345929人评价",
+      "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。"
+    }, {
+      "numId": 2,
+      "title": "十二怒汉",
+      "titleEnglish": "&nbsp;/&nbsp;12 Angry Men",
+      "titleOther": "&nbsp;/&nbsp;12怒汉  /  十二怒汉",
+      "info": "9.4",
+      "viewNumber": "196943人评价",
+      "quote": "1957年的理想主义。 "
+    }, {
+      "numId": 3,
+      "title": "少年派的奇幻漂流",
+      "titleEnglish": "&nbsp;/&nbsp;Life of Pi",
+      "titleOther": "&nbsp;/&nbsp;少年Pi的奇幻漂流  /  漂流少年Pi",
+      "info": "9.0",
+      "viewNumber": "658904人评价",
+      "quote": "瑰丽壮观、无人能及的冒险之旅。"
+    }, {
+      "numId": 4,
+      "title": "蝙蝠侠：黑暗骑士",
+      "titleEnglish": "&nbsp;/&nbsp;The Dark Knight",
+      "titleOther": "&nbsp;/&nbsp;蝙蝠侠前传2：黑暗骑士  /  黑暗骑士(台)",
+      "info": "9.1",
+      "viewNumber": "382784人评价",
+      "quote": "无尽的黑暗。"
+    }, {
+      "numId": 5,
+      "title": "鬼子来了",
+      "titleEnglish": "&nbsp;/&nbsp;Devils on the Doorstep",
+      "info": "9.2",
+      "viewNumber": "270166人评价",
+      "quote": "对敌人的仁慈，就是对自己残忍。"
+    }, {
+      "numId": 6,
+      "title": "搏击俱乐部",
+      "titleEnglish": "&nbsp;/&nbsp;Fight Club",
+      "titleOther": "&nbsp;/&nbsp;搏击会(港)  /  斗阵俱乐部(台)",
+      "info": "9.0",
+      "viewNumber": "443167人评价",
+      "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。"
+    }, {
+      "numId": 7,
+      "title": "活着",
+      "titleEnglish": "&nbsp;/&nbsp;人生  /  Lifetimes",
+      "info": "9.1",
+      "viewNumber": "318262人评价",
+      "quote": "张艺谋最好的电影。"
+    }, {
+      "numId": 8,
+      "title": "指环王3：王者无敌",
+      "titleEnglish": "&nbsp;/&nbsp;The Lord of the Rings: The Return of the King",
+      "titleOther": "&nbsp;/&nbsp;魔戒三部曲：王者再临(台 / 港) ",
+      "info": "9.1",
+      "viewNumber": "323762人评价",
+      "quote": "史诗的终章。"
+    }, {
+      "numId": 9,
+      "title": "疯狂动物城",
+      "titleEnglish": "&nbsp;/&nbsp;Zootopia",
+      "titleOther": "&nbsp;/&nbsp;优兽大都会(港)  /  动物方城市(台)",
+      "info": "9.1",
+      "viewNumber": "612584人评价",
+      "quote": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。"
+    }, {
+      "numId": 10,
+      "title": "天空之城",
+      "titleEnglish": "&nbsp;/&nbsp;天空の城ラピュタ",
+      "titleOther": "&nbsp;/&nbsp;Tenkû no shiro Rapyuta  /  Laputa: Castle in the Sky",
+      "info": "9.0",
+      "viewNumber": "381254人评价",
+      "quote": "对天空的追逐，永不停止。 "
+    }, {
+      "numId": 11,
+      "title": "大话西游之月光宝盒",
+      "titleEnglish": "&nbsp;/&nbsp;西遊記第壹佰零壹回之月光寶盒",
+      "titleOther": "&nbsp;/&nbsp;西游记101回月光宝盒  /  齐天大圣东游记",
+      "info": "8.9",
+      "viewNumber": "468374人评价",
+      "quote": "旷古烁今。"
+    }, {
+      "numId": 12,
+      "title": "罗马假日",
+      "titleEnglish": "&nbsp;/&nbsp;Roman Holiday",
+      "titleOther": "&nbsp;/&nbsp;金枝玉叶(港)  /  罗马假期(台)",
+      "info": "8.9",
+      "viewNumber": "438205人评价",
+      "quote": "爱情哪怕只有一天。"
+    }, {
+      "numId": 13,
+      "title": "飞屋环游记",
+      "titleEnglish": "&nbsp;/&nbsp;Up",
+      "titleOther": "&nbsp;/&nbsp;冲天救兵(港)  /  天外奇迹(台)",
+      "info": "8.9",
+      "viewNumber": "571109人评价",
+      "quote": "最后那些最无聊的事情，才是最值得怀念的。 "
+    }, {
+      "numId": 14,
+      "title": "控方证人",
+      "titleEnglish": "&nbsp;/&nbsp;Witness for the Prosecution",
+      "titleOther": "&nbsp;/&nbsp;雄才伟略  /  情妇",
+      "info": "9.6",
+      "viewNumber": "120332人评价",
+      "quote": "比利·怀德满分作品。"
+    }, {
+      "numId": 15,
+      "title": "窃听风暴",
+      "titleEnglish": "&nbsp;/&nbsp;Das Leben der Anderen",
+      "titleOther": "&nbsp;/&nbsp;他人的生活  /  别人的生活",
+      "info": "9.1",
+      "viewNumber": "257806人评价",
+      "quote": "别样人生。"
+    }, {
+      "numId": 16,
+      "title": "两杆大烟枪",
+      "titleEnglish": "&nbsp;/&nbsp;Lock, Stock and Two Smoking Barrels",
+      "titleOther": "&nbsp;/&nbsp;够姜四小强(港)  /  两根枪管(台)",
+      "info": "9.1",
+      "viewNumber": "303588人评价",
+      "quote": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。"
+    }, {
+      "numId": 17,
+      "title": "飞越疯人院",
+      "titleEnglish": "&nbsp;/&nbsp;One Flew Over the Cuckoo's Nest",
+      "titleOther": "&nbsp;/&nbsp;飞越杜鹃窝(台)  /  飞越喜鹊巢",
+      "info": "9.0",
+      "viewNumber": "308715人评价",
+      "quote": "自由万岁。"
+    }, {
+      "numId": 18,
+      "title": "闻香识女人",
+      "titleEnglish": "&nbsp;/&nbsp;Scent of a Woman",
+      "titleOther": "&nbsp;/&nbsp;女人香  /  女人的芳香",
+      "info": "8.9",
+      "viewNumber": "370571人评价",
+      "quote": "史上最美的探戈。"
+    }, {
+      "numId": 19,
+      "title": "哈尔的移动城堡",
+      "titleEnglish": "&nbsp;/&nbsp;ハウルの動く城",
+      "titleOther": "&nbsp;/&nbsp;呼啸山城  /  霍尔的移动城堡",
+      "info": "8.9",
+      "viewNumber": "407939人评价",
+      "quote": "带着心爱的人在天空飞翔。"
+    }, {
+      "numId": 20,
+      "title": "辩护人",
+      "titleEnglish": "&nbsp;/&nbsp;변호인",
+      "titleOther": "&nbsp;/&nbsp;逆权大状(港)  /  正义辩护人(台)",
+      "info": "9.1",
+      "viewNumber": "248618人评价",
+      "quote": "电影的现实意义大过电影本身。"
+    }, {
+      "numId": 21,
+      "title": "海豚湾",
+      "titleEnglish": "&nbsp;/&nbsp;The Cove",
+      "titleOther": "&nbsp;/&nbsp;血色海湾(台)  /  海湾",
+      "info": "9.3",
+      "viewNumber": "200853人评价",
+      "quote": "海豚的微笑，是世界上最高明的伪装。"
+    }, {
+      "numId": 22,
+      "title": "V字仇杀队",
+      "titleEnglish": "&nbsp;/&nbsp;V for Vendetta",
+      "titleOther": "&nbsp;/&nbsp;V煞(港)  /  V怪客(台)",
+      "info": "8.8",
+      "viewNumber": "479608人评价",
+      "quote": "一张面具背后的理想与革命。"
+    }, {
+      "numId": 23,
+      "title": "死亡诗社",
+      "titleEnglish": "&nbsp;/&nbsp;Dead Poets Society",
+      "titleOther": "&nbsp;/&nbsp;暴雨骄阳(港)  /  春风化雨(台)",
+      "info": "9.0",
+      "viewNumber": "319078人评价",
+      "quote": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。"
+    }, {
+      "numId": 24,
+      "title": "教父2",
+      "titleEnglish": "&nbsp;/&nbsp;The Godfather: Part Ⅱ",
+      "titleOther": "&nbsp;/&nbsp;教父续集  /  教父II",
+      "info": "9.1",
+      "viewNumber": "214194人评价",
+      "quote": "优雅的孤独。"
+    }, {
+      "numId": 25,
+      "title": "美丽心灵",
+      "titleEnglish": "&nbsp;/&nbsp;A Beautiful Mind",
+      "titleOther": "&nbsp;/&nbsp;有你终生美丽(港)  /  美丽境界(台)",
+      "info": "8.9",
+      "viewNumber": "343202人评价",
+      "quote": "爱是一切逻辑和原由。"
+    }, {
+      "numId": 1,
+      "title": "指环王2：双塔奇兵",
+      "titleEnglish": "&nbsp;/&nbsp;The Lord of the Rings: The Two Towers",
+      "titleOther": "&nbsp;/&nbsp;魔戒二部曲：双城奇谋  /  指环王II：双塔",
+      "info": "9.0",
+      "viewNumber": "304327人评价",
+      "quote": "承前启后的史诗篇章。"
+    }, {
+      "numId": 2,
+      "title": "指环王1：魔戒再现",
+      "titleEnglish": "&nbsp;/&nbsp;The Lord of the Rings: The Fellowship of the Ring",
+      "titleOther": "&nbsp;/&nbsp;魔戒首部曲：魔戒现身  /  指环王I：护戒使者",
+      "info": "8.9",
+      "viewNumber": "340737人评价",
+      "quote": "传说的开始。"
+    }, {
+      "numId": 3,
+      "title": "饮食男女",
+      "titleEnglish": "&nbsp;/&nbsp;飲食男女",
+      "titleOther": "&nbsp;/&nbsp;Eat Drink Man Woman",
+      "info": "9.1",
+      "viewNumber": "233022人评价",
+      "quote": "人生不能像做菜，把所有的料都准备好了才下锅。"
+    }, {
+      "numId": 4,
+      "title": "情书",
+      "titleEnglish": "&nbsp;/&nbsp;Love Letter",
+      "titleOther": "&nbsp;/&nbsp;When I Close My Eyes  /  Letters of Love",
+      "info": "8.8",
+      "viewNumber": "423224人评价",
+      "quote": "暗恋的极致。"
+    }, {
+      "numId": 5,
+      "title": "摔跤吧！爸爸",
+      "titleEnglish": "&nbsp;/&nbsp;Dangal",
+      "titleOther": "&nbsp;/&nbsp;我和我的冠军女儿(台)  /  打死不离3父女(港)",
+      "info": "9.1",
+      "viewNumber": "544421人评价",
+      "quote": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。"
+    }, {
+      "numId": 6,
+      "title": "美国往事",
+      "titleEnglish": "&nbsp;/&nbsp;Once Upon a Time in America",
+      "titleOther": "&nbsp;/&nbsp;四海兄弟(台)  /  义薄云天(港)",
+      "info": "9.1",
+      "viewNumber": "197262人评价",
+      "quote": "往事如烟，无处祭奠。"
+    }, {
+      "numId": 7,
+      "title": "狮子王",
+      "titleEnglish": "&nbsp;/&nbsp;The Lion King",
+      "titleOther": "&nbsp;/&nbsp;狮子王3D",
+      "info": "8.9",
+      "viewNumber": "318230人评价",
+      "quote": "动物版《哈姆雷特》。"
+    }, {
+      "numId": 8,
+      "title": "钢琴家",
+      "titleEnglish": "&nbsp;/&nbsp;The Pianist",
+      "titleOther": "&nbsp;/&nbsp;战地琴声(台)  /  战地琴人",
+      "info": "9.0",
+      "viewNumber": "226283人评价",
+      "quote": "音乐能化解仇恨。"
+    }, {
+      "numId": 9,
+      "title": "素媛",
+      "titleEnglish": "&nbsp;/&nbsp;소원",
+      "titleOther": "&nbsp;/&nbsp;许愿  /  希望：为爱重生(台)",
+      "info": "9.1",
+      "viewNumber": "215087人评价",
+      "quote": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。"
+    }, {
+      "numId": 10,
+      "title": "天使爱美丽",
+      "titleEnglish": "&nbsp;/&nbsp;Le fabuleux destin d'Amélie Poulain",
+      "titleOther": "&nbsp;/&nbsp;艾蜜莉的异想世界(台)  /  天使艾米莉",
+      "info": "8.7",
+      "viewNumber": "532379人评价",
+      "quote": "法式小清新。 "
+    }, {
+      "numId": 11,
+      "title": "小鞋子",
+      "titleEnglish": "&nbsp;/&nbsp;بچههای آسمان",
+      "titleOther": "&nbsp;/&nbsp;天堂的孩子  /  小童鞋",
+      "info": "9.2",
+      "viewNumber": "159622人评价",
+      "quote": "奔跑的孩子是天使。"
+    }, {
+      "numId": 12,
+      "title": "七宗罪",
+      "titleEnglish": "&nbsp;/&nbsp;Se7en",
+      "titleOther": "&nbsp;/&nbsp;火线追缉令(台)  /  7宗罪",
+      "info": "8.7",
+      "viewNumber": "479668人评价",
+      "quote": "警察抓小偷，老鼠玩死猫。"
+    }, {
+      "numId": 13,
+      "title": "被嫌弃的松子的一生",
+      "titleEnglish": "&nbsp;/&nbsp;嫌われ松子の一生",
+      "titleOther": "&nbsp;/&nbsp;花样奇缘(港)  /  令人讨厌的松子的一生(台)",
+      "info": "8.9",
+      "viewNumber": "332948人评价",
+      "quote": "以戏谑来戏谑戏谑。"
+    }, {
+      "numId": 14,
+      "title": "致命魔术",
+      "titleEnglish": "&nbsp;/&nbsp;The Prestige",
+      "titleOther": "&nbsp;/&nbsp;顶尖对决(台)  /  死亡魔法(港)",
+      "info": "8.8",
+      "viewNumber": "386413人评价",
+      "quote": "孪生蝙蝠侠大战克隆金刚狼。"
+    }, {
+      "numId": 15,
+      "title": "本杰明·巴顿奇事",
+      "titleEnglish": "&nbsp;/&nbsp;The Curious Case of Benjamin Button",
+      "titleOther": "&nbsp;/&nbsp;奇幻逆缘(港)  /  返老还童",
+      "info": "8.8",
+      "viewNumber": "438571人评价",
+      "quote": "在时间之河里感受溺水之苦。"
+    }, {
+      "numId": 16,
+      "title": "音乐之声",
+      "titleEnglish": "&nbsp;/&nbsp;The Sound of Music",
+      "titleOther": "&nbsp;/&nbsp;仙乐飘飘处处闻(港)  /  真善美(台)",
+      "info": "8.9",
+      "viewNumber": "257511人评价",
+      "quote": "用音乐化解仇恨，让歌声串起美好。"
+    }, {
+      "numId": 17,
+      "title": "勇敢的心",
+      "titleEnglish": "&nbsp;/&nbsp;Braveheart",
+      "titleOther": "&nbsp;/&nbsp;惊世未了缘(港)  /  梅尔吉勃逊之英雄本色(台)",
+      "info": "8.8",
+      "viewNumber": "321547人评价",
+      "quote": "史诗大片的典范。"
+    }, {
+      "numId": 18,
+      "title": "西西里的美丽传说",
+      "titleEnglish": "&nbsp;/&nbsp;Malèna",
+      "titleOther": "&nbsp;/&nbsp;真爱伴我行(台)  /  玛莲娜",
+      "info": "8.8",
+      "viewNumber": "399891人评价",
+      "quote": "美丽无罪。"
+    }, {
+      "numId": 19,
+      "title": "剪刀手爱德华",
+      "titleEnglish": "&nbsp;/&nbsp;Edward Scissorhands",
+      "titleOther": "&nbsp;/&nbsp;幻海奇缘(港)  /  剪刀手爱德华",
+      "info": "8.7",
+      "viewNumber": "536811人评价",
+      "quote": "浪漫忧郁的成人童话。"
+    }, {
+      "numId": 20,
+      "title": "低俗小说",
+      "titleEnglish": "&nbsp;/&nbsp;Pulp Fiction",
+      "titleOther": "&nbsp;/&nbsp;黑色追緝令(台)  /  危险人物(港)",
+      "info": "8.8",
+      "viewNumber": "376031人评价",
+      "quote": "故事的高级讲法。"
+    }, {
+      "numId": 21,
+      "title": "黑客帝国",
+      "titleEnglish": "&nbsp;/&nbsp;The Matrix",
+      "titleOther": "&nbsp;/&nbsp;廿二世纪杀人网络(港)  /  骇客任务(台)",
+      "info": "8.8",
+      "viewNumber": "316651人评价",
+      "quote": "视觉革命。"
+    }, {
+      "numId": 22,
+      "title": "拯救大兵瑞恩",
+      "titleEnglish": "&nbsp;/&nbsp;Saving Private Ryan",
+      "titleOther": "&nbsp;/&nbsp;雷霆救兵(港)  /  抢救雷恩大兵(台)",
+      "info": "8.9",
+      "viewNumber": "270460人评价",
+      "quote": "美利坚精神输出大片No1."
+    }, {
+      "numId": 23,
+      "title": "沉默的羔羊",
+      "titleEnglish": "&nbsp;/&nbsp;The Silence of the Lambs",
+      "titleOther": "&nbsp;/&nbsp;沉默的羔羊",
+      "info": "8.7",
+      "viewNumber": "393686人评价",
+      "quote": "安东尼·霍普金斯的顶级表演。"
+    }, {
+      "numId": 24,
+      "title": "看不见的客人",
+      "titleEnglish": "&nbsp;/&nbsp;Contratiempo",
+      "titleOther": "&nbsp;/&nbsp;佈局(台)  /  死无对证(港)",
+      "info": "8.7",
+      "viewNumber": "403488人评价",
+      "quote": "你以为你以为的就是你以为的。"
+    }, {
+      "numId": 25,
+      "title": "让子弹飞",
+      "titleEnglish": "&nbsp;/&nbsp;让子弹飞一会儿  /  火烧云",
+      "info": "8.7",
+      "viewNumber": "699301人评价",
+      "quote": "你给我翻译翻译，神马叫做TMD的惊喜。"
+    }, {
+      "numId": 1,
+      "title": "蝴蝶效应",
+      "titleEnglish": "&nbsp;/&nbsp;The Butterfly Effect",
+      "titleOther": "&nbsp;/&nbsp;蝴蝶效应",
+      "info": "8.7",
+      "viewNumber": "425737人评价",
+      "quote": "人的命运被自己瞬间的抉择改变。"
+    }, {
+      "numId": 2,
+      "title": "入殓师",
+      "titleEnglish": "&nbsp;/&nbsp;おくりびと",
+      "titleOther": "&nbsp;/&nbsp;礼仪师之奏鸣曲(港)  /  礼仪师(台)",
+      "info": "8.8",
+      "viewNumber": "345087人评价",
+      "quote": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。"
+    }, {
+      "numId": 3,
+      "title": "春光乍泄",
+      "titleEnglish": "&nbsp;/&nbsp;春光乍洩",
+      "titleOther": "&nbsp;/&nbsp;一起快乐  /  Happy Together",
+      "info": "8.8",
+      "viewNumber": "279405人评价",
+      "quote": "爱情纠缠，男女一致。"
+    }, {
+      "numId": 4,
+      "title": "大闹天宫",
+      "titleEnglish": "&nbsp;/&nbsp;大闹天宫 上下集  /  The Monkey King",
+      "info": "9.3",
+      "viewNumber": "116437人评价",
+      "quote": "经典之作，历久弥新。"
+    }, {
+      "numId": 5,
+      "title": "玛丽和马克思",
+      "titleEnglish": "&nbsp;/&nbsp;Mary and Max",
+      "titleOther": "&nbsp;/&nbsp;巧克力情缘(台)  /  同是天涯寂寞客",
+      "info": "8.9",
+      "viewNumber": "249007人评价",
+      "quote": "你是我最好的朋友，你是我唯一的朋友 。"
+    }, {
+      "numId": 6,
+      "title": "末代皇帝",
+      "titleEnglish": "&nbsp;/&nbsp;The Last Emperor",
+      "titleOther": "&nbsp;/&nbsp;末代皇帝溥仪(港)",
+      "info": "9.0",
+      "viewNumber": "199358人评价",
+      "quote": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。"
+    }, {
+      "numId": 7,
+      "title": "心灵捕手",
+      "titleEnglish": "&nbsp;/&nbsp;Good Will Hunting",
+      "titleOther": "&nbsp;/&nbsp;骄阳似我(港)  /  心灵捕手",
+      "info": "8.8",
+      "viewNumber": "304417人评价",
+      "quote": "人生中应该拥有这样的一段豁然开朗。"
+    }, {
+      "numId": 8,
+      "title": "阳光灿烂的日子",
+      "titleEnglish": "&nbsp;/&nbsp;In the Heat of the Sun",
+      "info": "8.8",
+      "viewNumber": "302173人评价",
+      "quote": "一场华丽的意淫。"
+    }, {
+      "numId": 9,
+      "title": "幽灵公主",
+      "titleEnglish": "&nbsp;/&nbsp;もののけ姫",
+      "titleOther": "&nbsp;/&nbsp;魔法公主  /  幽灵少女",
+      "info": "8.8",
+      "viewNumber": "261373人评价",
+      "quote": "人与自然的战争史诗。"
+    }, {
+      "numId": 10,
+      "title": "第六感",
+      "titleEnglish": "&nbsp;/&nbsp;The Sixth Sense",
+      "titleOther": "&nbsp;/&nbsp;灵异第六感  /  鬼眼",
+      "info": "8.8",
+      "viewNumber": "259688人评价",
+      "quote": "深入内心的恐怖，出人意料的结局。"
+    }, {
+      "numId": 11,
+      "title": "布达佩斯大饭店",
+      "titleEnglish": "&nbsp;/&nbsp;The Grand Budapest Hotel",
+      "titleOther": "&nbsp;/&nbsp;布达佩斯大酒店(港)  /  欢迎来到布达佩斯大饭店(台)",
+      "info": "8.8",
+      "viewNumber": "360669人评价",
+      "quote": "小清新的故事里注入了大历史的情怀。"
+    }, {
+      "numId": 12,
+      "title": "重庆森林",
+      "titleEnglish": "&nbsp;/&nbsp;重慶森林",
+      "titleOther": "&nbsp;/&nbsp;Chungking Express",
+      "info": "8.7",
+      "viewNumber": "371028人评价",
+      "quote": "寂寞没有期限。"
+    }, {
+      "numId": 13,
+      "title": "禁闭岛",
+      "titleEnglish": "&nbsp;/&nbsp;Shutter Island",
+      "titleOther": "&nbsp;/&nbsp;不赦岛(港)  /  隔离岛(台)",
+      "info": "8.7",
+      "viewNumber": "402312人评价",
+      "quote": "昔日翩翩少年，今日大腹便便。"
+    }, {
+      "numId": 14,
+      "title": "哈利·波特与魔法石",
+      "titleEnglish": "&nbsp;/&nbsp;Harry Potter and the Sorcerer's Stone",
+      "titleOther": "&nbsp;/&nbsp;哈利波特1：神秘的魔法石(港 / 台) ",
+      "info": "8.7",
+      "viewNumber": "296897人评价",
+      "quote": "童话世界的开端。"
+    }, {
+      "numId": 15,
+      "title": "狩猎",
+      "titleEnglish": "&nbsp;/&nbsp;Jagten",
+      "titleOther": "&nbsp;/&nbsp;谎言的烙印(台)  /  诬网(港)",
+      "info": "9.0",
+      "viewNumber": "148396人评价",
+      "quote": "人言可畏。"
+    }, {
+      "numId": 16,
+      "title": "猫鼠游戏",
+      "titleEnglish": "&nbsp;/&nbsp;Catch Me If You Can",
+      "titleOther": "&nbsp;/&nbsp;逍遥法外  /  神鬼交锋(台)",
+      "info": "8.8",
+      "viewNumber": "262911人评价",
+      "quote": "骗子大师和执著警探的你追我跑故事。 "
+    }, {
+      "numId": 17,
+      "title": "大鱼",
+      "titleEnglish": "&nbsp;/&nbsp;Big Fish",
+      "titleOther": "&nbsp;/&nbsp;大鱼奇缘(港)  /  大智若鱼(台)",
+      "info": "8.7",
+      "viewNumber": "278812人评价",
+      "quote": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。"
+    }, {
+      "numId": 18,
+      "title": "致命ID",
+      "titleEnglish": "&nbsp;/&nbsp;Identity",
+      "titleOther": "&nbsp;/&nbsp;杀人游戏  /  致命身份",
+      "info": "8.7",
+      "viewNumber": "354448人评价",
+      "quote": "最不可能的那个人永远是最可能的。"
+    }, {
+      "numId": 19,
+      "title": "断背山",
+      "titleEnglish": "&nbsp;/&nbsp;Brokeback Mountain",
+      "titleOther": "&nbsp;/&nbsp;断臂山  /  BBM",
+      "info": "8.7",
+      "viewNumber": "354172人评价",
+      "quote": "每个人心中都有一座断背山。"
+    }, {
+      "numId": 20,
+      "title": "甜蜜蜜",
+      "titleEnglish": "&nbsp;/&nbsp;Comrades: Almost a Love Story",
+      "info": "8.8",
+      "viewNumber": "254524人评价",
+      "quote": "相逢只要一瞬间，等待却像是一辈子。"
+    }, {
+      "numId": 21,
+      "title": "射雕英雄传之东成西就",
+      "titleEnglish": "&nbsp;/&nbsp;射鵰英雄傳之東成西就",
+      "titleOther": "&nbsp;/&nbsp;东成西就  /  大英雄 (日本)",
+      "info": "8.7",
+      "viewNumber": "304936人评价",
+      "quote": "百看不厌。 "
+    }, {
+      "numId": 22,
+      "title": "一一",
+      "titleEnglish": "&nbsp;/&nbsp;Yi yi  /  Yi yi: A One and a Two",
+      "info": "8.9",
+      "viewNumber": "171696人评价",
+      "quote": "我们都曾经是一一。"
+    }, {
+      "numId": 23,
+      "title": "告白",
+      "titleEnglish": "&nbsp;/&nbsp;自白  /  母亲",
+      "info": "8.7",
+      "viewNumber": "377406人评价",
+      "quote": "没有一人完全善，也没有一人完全恶。"
+    }, {
+      "numId": 24,
+      "title": "阳光姐妹淘",
+      "titleEnglish": "&nbsp;/&nbsp;써니",
+      "titleOther": "&nbsp;/&nbsp;阳光姊妹淘(港)  /  桑尼",
+      "info": "8.8",
+      "viewNumber": "297340人评价",
+      "quote": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 "
+    }, {
+      "numId": 25,
+      "title": "加勒比海盗",
+      "titleEnglish": "&nbsp;/&nbsp;Pirates of the Caribbean: The Curse of the Black Pearl",
+      "titleOther": "&nbsp;/&nbsp;加勒比海盗1：黑珍珠号的诅咒  /  神鬼奇航：鬼盗船魔咒(台)",
+      "info": "8.6",
+      "viewNumber": "384457人评价",
+      "quote": "约翰尼·德普的独角戏。"
+    }, {
+      "numId": 1,
+      "title": "穿条纹睡衣的男孩",
+      "titleEnglish": "&nbsp;/&nbsp;The Boy in the Striped Pajamas",
+      "titleOther": "&nbsp;/&nbsp;穿条纹衣服的男孩  /  穿条纹衣的男孩",
+      "info": "8.9",
+      "viewNumber": "169925人评价",
+      "quote": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。"
+    }, {
+      "numId": 2,
+      "title": "上帝之城",
+      "titleEnglish": "&nbsp;/&nbsp;Cidade de Deus",
+      "titleOther": "&nbsp;/&nbsp;无主之城 (港)  /  无法无天 (台)",
+      "info": "8.9",
+      "viewNumber": "170412人评价",
+      "quote": "被上帝抛弃了的上帝之城。"
+    }, {
+      "numId": 3,
+      "title": "摩登时代",
+      "titleEnglish": "&nbsp;/&nbsp;Modern Times",
+      "titleOther": "&nbsp;/&nbsp;The Masses  /  Temps modernes, Les",
+      "info": "9.2",
+      "viewNumber": "101215人评价",
+      "quote": "大时代中的人生，小人物的悲喜。"
+    }, {
+      "numId": 4,
+      "title": "阿凡达",
+      "titleEnglish": "&nbsp;/&nbsp;Avatar",
+      "titleOther": "&nbsp;/&nbsp;天神下凡(港)  /  化身",
+      "info": "8.6",
+      "viewNumber": "581455人评价",
+      "quote": "绝对意义上的美轮美奂。"
+    }, {
+      "numId": 5,
+      "title": "爱在黎明破晓前",
+      "titleEnglish": "&nbsp;/&nbsp;Before Sunrise",
+      "titleOther": "&nbsp;/&nbsp;情留半天(港)  /  爱在黎明破晓时(台)",
+      "info": "8.7",
+      "viewNumber": "245545人评价",
+      "quote": "缘分是个连绵词，最美不过一瞬。"
+    }, {
+      "numId": 6,
+      "title": "消失的爱人",
+      "titleEnglish": "&nbsp;/&nbsp;Gone Girl",
+      "titleOther": "&nbsp;/&nbsp;失踪的女孩  /  失踪女孩",
+      "info": "8.7",
+      "viewNumber": "398055人评价",
+      "quote": "年度最佳date movie。"
+    }, {
+      "numId": 7,
+      "title": "风之谷",
+      "titleEnglish": "&nbsp;/&nbsp;風の谷のナウシカ",
+      "titleOther": "&nbsp;/&nbsp;风谷少女  /  Kaze no tani no Naushika",
+      "info": "8.8",
+      "viewNumber": "193635人评价",
+      "quote": "动画片的圣经。"
+    }, {
+      "numId": 8,
+      "title": "爱在日落黄昏时",
+      "titleEnglish": "&nbsp;/&nbsp;Before Sunset",
+      "titleOther": "&nbsp;/&nbsp;日落巴黎(港)  /  爱在日落巴黎时(台)",
+      "info": "8.7",
+      "viewNumber": "218663人评价",
+      "quote": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。"
+    }, {
+      "numId": 9,
+      "title": "侧耳倾听",
+      "titleEnglish": "&nbsp;/&nbsp;耳をすませば",
+      "titleOther": "&nbsp;/&nbsp;心之谷  /  梦幻街少女",
+      "info": "8.8",
+      "viewNumber": "188077人评价",
+      "quote": "少女情怀总是诗。"
+    }, {
+      "numId": 10,
+      "title": "超脱",
+      "titleEnglish": "&nbsp;/&nbsp;Detachment",
+      "titleOther": "&nbsp;/&nbsp;人间师格(台)",
+      "info": "8.8",
+      "viewNumber": "194003人评价",
+      "quote": "穷尽一生，我们要学会的，不过是彼此拥抱。"
+    }, {
+      "numId": 11,
+      "title": "红辣椒",
+      "titleEnglish": "&nbsp;/&nbsp;パプリカ",
+      "titleOther": "&nbsp;/&nbsp;盗梦侦探  /  帕布莉卡",
+      "info": "8.9",
+      "viewNumber": "152280人评价",
+      "quote": "梦的勾结。"
+    }, {
+      "numId": 12,
+      "title": "恐怖直播",
+      "titleEnglish": "&nbsp;/&nbsp;더 테러 라이브",
+      "titleOther": "&nbsp;/&nbsp;死亡“动”新闻(港)  /  恐怖攻击直播(台)",
+      "info": "8.7",
+      "viewNumber": "252132人评价",
+      "quote": "恐怖分子的“秋菊打官司”。"
+    }, {
+      "numId": 13,
+      "title": "倩女幽魂",
+      "titleEnglish": "&nbsp;/&nbsp;倩女幽魂(87版)  /  A Chinese Ghost Story",
+      "info": "8.6",
+      "viewNumber": "284991人评价",
+      "quote": "两张绝世的脸。 "
+    }, {
+      "numId": 14,
+      "title": "小森林 夏秋篇",
+      "titleEnglish": "&nbsp;/&nbsp;リトル・フォレスト 夏・秋",
+      "titleOther": "&nbsp;/&nbsp;小森食光 / 夏秋篇(台) ",
+      "info": "8.9",
+      "viewNumber": "152402人评价",
+      "quote": "那些静得只能听见呼吸的日子里，你明白孤独即生活。"
+    }, {
+      "numId": 15,
+      "title": "喜剧之王",
+      "titleEnglish": "&nbsp;/&nbsp;喜劇之王",
+      "titleOther": "&nbsp;/&nbsp;King of Comedy",
+      "info": "8.6",
+      "viewNumber": "355403人评价",
+      "quote": "我是一个演员。"
+    }, {
+      "numId": 16,
+      "title": "驯龙高手",
+      "titleEnglish": "&nbsp;/&nbsp;How to Train Your Dragon",
+      "titleOther": "&nbsp;/&nbsp;驯龙记(港)",
+      "info": "8.7",
+      "viewNumber": "313571人评价",
+      "quote": "和谐的生活离不开摸头与被摸头。"
+    }, {
+      "numId": 17,
+      "title": "菊次郎的夏天",
+      "titleEnglish": "&nbsp;/&nbsp;菊次郎の夏",
+      "titleOther": "&nbsp;/&nbsp;Kikujirô no natsu  /  菊次郎的夏天",
+      "info": "8.7",
+      "viewNumber": "204189人评价",
+      "quote": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。"
+    }, {
+      "numId": 18,
+      "title": "幸福终点站",
+      "titleEnglish": "&nbsp;/&nbsp;The Terminal",
+      "titleOther": "&nbsp;/&nbsp;机场客运站(港)  /  航站情缘(台)",
+      "info": "8.7",
+      "viewNumber": "245516人评价",
+      "quote": "有时候幸福需要等一等。 "
+    }, {
+      "numId": 19,
+      "title": "萤火虫之墓",
+      "titleEnglish": "&nbsp;/&nbsp;火垂るの墓",
+      "titleOther": "&nbsp;/&nbsp;再见萤火虫(港)  /  萤火挽歌",
+      "info": "8.7",
+      "viewNumber": "222882人评价",
+      "quote": "幸福是生生不息，却难以触及的远。 "
+    }, {
+      "numId": 20,
+      "title": "借东西的小人阿莉埃蒂",
+      "titleEnglish": "&nbsp;/&nbsp;借りぐらしのアリエッティ",
+      "titleOther": "&nbsp;/&nbsp;借物少女艾莉缇(台)  /  借东西的小矮人亚莉亚蒂(港)",
+      "info": "8.7",
+      "viewNumber": "239168人评价",
+      "quote": "曾经的那段美好会沉淀为一辈子的记忆。"
+    }, {
+      "numId": 21,
+      "title": "岁月神偷",
+      "titleEnglish": "&nbsp;/&nbsp;歲月神偷",
+      "titleOther": "&nbsp;/&nbsp;1969太空漫游  /  Echoes Of The Rainbow",
+      "info": "8.6",
+      "viewNumber": "330676人评价",
+      "quote": "岁月流逝，来日可追。"
+    }, {
+      "numId": 22,
+      "title": "七武士",
+      "titleEnglish": "&nbsp;/&nbsp;七人の侍",
+      "titleOther": "&nbsp;/&nbsp;七侠四义(港)  /  The Seven Samurai",
+      "info": "9.2",
+      "viewNumber": "85165人评价",
+      "quote": "时代悲歌。"
+    }, {
+      "numId": 23,
+      "title": "杀人回忆",
+      "titleEnglish": "&nbsp;/&nbsp;살인의 추억",
+      "titleOther": "&nbsp;/&nbsp;谋杀回忆  /  杀手回忆录",
+      "info": "8.7",
+      "viewNumber": "229128人评价",
+      "quote": "关于连环杀人悬案的集体回忆。"
+    }, {
+      "numId": 24,
+      "title": "神偷奶爸",
+      "titleEnglish": "&nbsp;/&nbsp;Despicable Me",
+      "titleOther": "&nbsp;/&nbsp;卑鄙的我  /  坏蛋奖门人(港)",
+      "info": "8.5",
+      "viewNumber": "417517人评价",
+      "quote": "Mr. I Don't Care其实也有Care的时候。"
+    }, {
+      "numId": 25,
+      "title": "贫民窟的百万富翁",
+      "titleEnglish": "&nbsp;/&nbsp;Slumdog Millionaire",
+      "titleOther": "&nbsp;/&nbsp;贫民百万富翁(台)  /  一百万零一夜(港)",
+      "info": "8.5",
+      "viewNumber": "423509人评价",
+      "quote": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁"
+    }, {
+      "numId": 1,
+      "title": "喜宴",
+      "titleEnglish": "&nbsp;/&nbsp;囍宴",
+      "titleOther": "&nbsp;/&nbsp;The Wedding Banquet",
+      "info": "8.8",
+      "viewNumber": "154292人评价",
+      "quote": "中国家庭的喜怒哀乐忍。"
+    }, {
+      "numId": 2,
+      "title": "电锯惊魂",
+      "titleEnglish": "&nbsp;/&nbsp;Saw",
+      "titleOther": "&nbsp;/&nbsp;夺魂锯(台)  /  恐惧斗室(港)",
+      "info": "8.7",
+      "viewNumber": "215319人评价",
+      "quote": "真相就在眼前。"
+    }, {
+      "numId": 3,
+      "title": "真爱至上",
+      "titleEnglish": "&nbsp;/&nbsp;Love Actually",
+      "titleOther": "&nbsp;/&nbsp;爱是您，爱是我(台)  /  真的恋爱了(港)",
+      "info": "8.5",
+      "viewNumber": "339230人评价",
+      "quote": "爱，是个动词。"
+    }, {
+      "numId": 4,
+      "title": "谍影重重3",
+      "titleEnglish": "&nbsp;/&nbsp;The Bourne Ultimatum",
+      "titleOther": "&nbsp;/&nbsp;叛谍追击3：最后通牒(港)  /  神鬼认证：最后通牒 (台)",
+      "info": "8.7",
+      "viewNumber": "195786人评价",
+      "quote": "像吃了苏打饼一样干脆的电影。"
+    }, {
+      "numId": 5,
+      "title": "海洋",
+      "titleEnglish": "&nbsp;/&nbsp;Océans",
+      "titleOther": "&nbsp;/&nbsp;Oceans  /  海洋",
+      "info": "9.0",
+      "viewNumber": "104196人评价",
+      "quote": "大海啊，不全是水。"
+    }, {
+      "numId": 6,
+      "title": "东邪西毒",
+      "titleEnglish": "&nbsp;/&nbsp;東邪西毒",
+      "titleOther": "&nbsp;/&nbsp;Ashes of Time",
+      "info": "8.6",
+      "viewNumber": "274541人评价",
+      "quote": "电影诗。"
+    }, {
+      "numId": 7,
+      "title": "怪兽电力公司",
+      "titleEnglish": "&nbsp;/&nbsp;Monsters, Inc.",
+      "titleOther": "&nbsp;/&nbsp;怪兽公司(港)  /  怪物公司",
+      "info": "8.6",
+      "viewNumber": "265772人评价",
+      "quote": "不要给它起名字，起了名字就有感情了。"
+    }, {
+      "numId": 8,
+      "title": "记忆碎片",
+      "titleEnglish": "&nbsp;/&nbsp;Memento",
+      "titleOther": "&nbsp;/&nbsp;失忆  /  记忆拼图(台)",
+      "info": "8.5",
+      "viewNumber": "302554人评价",
+      "quote": "一个针管引发的血案。"
+    }, {
+      "numId": 9,
+      "title": "雨人",
+      "titleEnglish": "&nbsp;/&nbsp;Rain Man",
+      "titleOther": "&nbsp;/&nbsp;手足情未了  /  手足情深",
+      "info": "8.6",
+      "viewNumber": "224611人评价",
+      "quote": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。"
+    }, {
+      "numId": 10,
+      "title": "黑天鹅",
+      "titleEnglish": "&nbsp;/&nbsp;Black Swan",
+      "titleOther": "&nbsp;/&nbsp;夺命黑天鹅  /  霸王别鹅(豆友译名)",
+      "info": "8.5",
+      "viewNumber": "451057人评价",
+      "quote": "黑暗之美。"
+    }, {
+      "numId": 11,
+      "title": "疯狂原始人",
+      "titleEnglish": "&nbsp;/&nbsp;The Croods",
+      "titleOther": "&nbsp;/&nbsp;古鲁家族(港 / 台) ",
+      "info": "8.7",
+      "viewNumber": "400241人评价",
+      "quote": "老少皆宜，这就是好莱坞动画的魅力。"
+    }, {
+      "numId": 12,
+      "title": "卢旺达饭店",
+      "titleEnglish": "&nbsp;/&nbsp;Hotel Rwanda",
+      "titleOther": "&nbsp;/&nbsp;卢安达饭店(台)",
+      "info": "8.9",
+      "viewNumber": "131041人评价",
+      "quote": "当这个世界闭上双眼，他却敞开了怀抱。"
+    }, {
+      "numId": 13,
+      "title": "燃情岁月",
+      "titleEnglish": "&nbsp;/&nbsp;Legends of the Fall",
+      "titleOther": "&nbsp;/&nbsp;秋日传奇  /  真爱一世情(台)",
+      "info": "8.7",
+      "viewNumber": "157395人评价",
+      "quote": "传奇，不是每个人都可以拥有。"
+    }, {
+      "numId": 14,
+      "title": "虎口脱险",
+      "titleEnglish": "&nbsp;/&nbsp;La grande vadrouille",
+      "titleOther": "&nbsp;/&nbsp;横冲直撞出重围(港)  /  大進擊(台)",
+      "info": "8.9",
+      "viewNumber": "114647人评价",
+      "quote": "永远看不腻的喜剧。"
+    }, {
+      "numId": 15,
+      "title": "英雄本色",
+      "titleEnglish": "&nbsp;/&nbsp;A Better Tomorrow  /  Gangland Boss",
+      "info": "8.6",
+      "viewNumber": "186943人评价",
+      "quote": "英雄泪短，兄弟情长。 "
+    }, {
+      "numId": 16,
+      "title": "小森林 冬春篇",
+      "titleEnglish": "&nbsp;/&nbsp;リトル・フォレスト 冬・春",
+      "titleOther": "&nbsp;/&nbsp;小森食光 / 冬春篇(台) ",
+      "info": "8.9",
+      "viewNumber": "132249人评价",
+      "quote": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。"
+    }, {
+      "numId": 17,
+      "title": "7号房的礼物",
+      "titleEnglish": "&nbsp;/&nbsp;7번방의 선물",
+      "titleOther": "&nbsp;/&nbsp;戆爸的礼物(港)  /  7号囚房的礼物",
+      "info": "8.7",
+      "viewNumber": "196486人评价",
+      "quote": "《我是山姆》的《美丽人生》。"
+    }, {
+      "numId": 18,
+      "title": "哈利·波特与死亡圣器(下)",
+      "titleEnglish": "&nbsp;/&nbsp;Harry Potter and the Deathly Hallows: Part 2",
+      "titleOther": "&nbsp;/&nbsp;哈利波特7：死神的圣物2(港 / 台) ",
+      "info": "8.7",
+      "viewNumber": "298037人评价",
+      "quote": "10年的完美句点。"
+    }, {
+      "numId": 19,
+      "title": "傲慢与偏见",
+      "titleEnglish": "&nbsp;/&nbsp;Pride &amp; Prejudice",
+      "titleOther": "&nbsp;/&nbsp;傲慢与偏见2005  /  Pride And Prejudice",
+      "info": "8.5",
+      "viewNumber": "330334人评价",
+      "quote": "爱是摈弃傲慢与偏见之后的曙光。"
+    }, {
+      "numId": 20,
+      "title": "心迷宫",
+      "titleEnglish": "&nbsp;/&nbsp;殡棺  /  The Coffin in the Mountain",
+      "info": "8.6",
+      "viewNumber": "198053人评价",
+      "quote": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。"
+    }, {
+      "numId": 21,
+      "title": "荒蛮故事",
+      "titleEnglish": "&nbsp;/&nbsp;Relatos salvajes",
+      "titleOther": "&nbsp;/&nbsp;蛮荒故事  /  生命中最抓狂的小事(台)",
+      "info": "8.8",
+      "viewNumber": "159075人评价",
+      "quote": "始于荒诞，止于更荒诞。"
+    }, {
+      "numId": 22,
+      "title": "萤火之森",
+      "titleEnglish": "&nbsp;/&nbsp;蛍火の杜へ",
+      "titleOther": "&nbsp;/&nbsp;萤火之社  /  Hotarubi no mori e",
+      "info": "8.7",
+      "viewNumber": "175194人评价",
+      "quote": "触不到的恋人。"
+    }, {
+      "numId": 23,
+      "title": "恋恋笔记本",
+      "titleEnglish": "&nbsp;/&nbsp;The Notebook",
+      "titleOther": "&nbsp;/&nbsp;深情日记  /  写我情真",
+      "info": "8.5",
+      "viewNumber": "308826人评价",
+      "quote": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 "
+    }, {
+      "numId": 24,
+      "title": "完美的世界",
+      "titleEnglish": "&nbsp;/&nbsp;A Perfect World",
+      "titleOther": "&nbsp;/&nbsp;强盗保镳",
+      "info": "9.0",
+      "viewNumber": "89761人评价",
+      "quote": "坏人的好总是比好人的好来得更感人。"
+    }, {
+      "numId": 25,
+      "title": "教父3",
+      "titleEnglish": "&nbsp;/&nbsp;The Godfather: Part III",
+      "titleOther": "&nbsp;/&nbsp;教父第三集  /  教父 III",
+      "info": "8.8",
+      "viewNumber": "143108人评价",
+      "quote": "任何信念的力量，都无法改变命运。"
+    }, {
+      "numId": 1,
+      "title": "海边的曼彻斯特",
+      "titleEnglish": "&nbsp;/&nbsp;Manchester by the Sea",
+      "titleOther": "&nbsp;/&nbsp;情系海边之城(港)  /  海曼",
+      "info": "8.6",
+      "viewNumber": "218295人评价",
+      "quote": "我们都有权利不与自己的过去和解。"
+    }, {
+      "numId": 2,
+      "title": "纵横四海",
+      "titleEnglish": "&nbsp;/&nbsp;緃横四海",
+      "titleOther": "&nbsp;/&nbsp;Once a Thief",
+      "info": "8.7",
+      "viewNumber": "162199人评价",
+      "quote": "香港浪漫主义警匪动作片的巅峰之作。"
+    }, {
+      "numId": 3,
+      "title": "花样年华",
+      "titleEnglish": "&nbsp;/&nbsp;花樣年華",
+      "titleOther": "&nbsp;/&nbsp;In the Mood for Love",
+      "info": "8.5",
+      "viewNumber": "268626人评价",
+      "quote": "偷情本没有这样美。"
+    }, {
+      "numId": 4,
+      "title": "玩具总动员3",
+      "titleEnglish": "&nbsp;/&nbsp;Toy Story 3",
+      "titleOther": "&nbsp;/&nbsp;反斗奇兵3(港)  /  玩具的故事3",
+      "info": "8.8",
+      "viewNumber": "206459人评价",
+      "quote": "跨度十五年的欢乐与泪水。"
+    }, {
+      "numId": 5,
+      "title": "猜火车",
+      "titleEnglish": "&nbsp;/&nbsp;Trainspotting",
+      "titleOther": "&nbsp;/&nbsp;迷幻列车(港)  /  定位的火车",
+      "info": "8.5",
+      "viewNumber": "264399人评价",
+      "quote": "不可猜的青春迷笛。 "
+    }, {
+      "numId": 6,
+      "title": "魂断蓝桥",
+      "titleEnglish": "&nbsp;/&nbsp;Waterloo Bridge",
+      "titleOther": "&nbsp;/&nbsp;滑铁卢桥  /  断桥残梦",
+      "info": "8.8",
+      "viewNumber": "138408人评价",
+      "quote": "中国式内在的美国电影。"
+    }, {
+      "numId": 7,
+      "title": "穿越时空的少女",
+      "titleEnglish": "&nbsp;/&nbsp;時をかける少女",
+      "titleOther": "&nbsp;/&nbsp;跳跃吧！时空少女(台)  /  Toki o kakeru shôjo",
+      "info": "8.6",
+      "viewNumber": "199304人评价",
+      "quote": "爱上未来的你。 "
+    }, {
+      "numId": 8,
+      "title": "请以你的名字呼唤我",
+      "titleEnglish": "&nbsp;/&nbsp;Call Me by Your Name",
+      "titleOther": "&nbsp;/&nbsp;以你的名字呼唤我(港 / 台) ",
+      "info": "8.8",
+      "viewNumber": "195466人评价",
+      "quote": "沉醉在电影的情感和视听氛围中无法自拔。"
+    }, {
+      "numId": 9,
+      "title": "唐伯虎点秋香",
+      "titleEnglish": "&nbsp;/&nbsp;唐伯虎點秋香",
+      "titleOther": "&nbsp;/&nbsp;Flirting Scholar",
+      "info": "8.4",
+      "viewNumber": "366009人评价",
+      "quote": "华太师是黄霑，吴镇宇四大才子之一。"
+    }, {
+      "numId": 10,
+      "title": "时空恋旅人",
+      "titleEnglish": "&nbsp;/&nbsp;About Time",
+      "titleOther": "&nbsp;/&nbsp;时空旅恋人  /  回到最爱的一天(港)",
+      "info": "8.6",
+      "viewNumber": "223127人评价",
+      "quote": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。"
+    }, {
+      "numId": 11,
+      "title": "雨中曲",
+      "titleEnglish": "&nbsp;/&nbsp;Singin' in the Rain",
+      "titleOther": "&nbsp;/&nbsp;雨中情  /  万花嬉春",
+      "info": "9.0",
+      "viewNumber": "99643人评价",
+      "quote": "骨灰级歌舞片。"
+    }, {
+      "numId": 12,
+      "title": "超能陆战队",
+      "titleEnglish": "&nbsp;/&nbsp;Big Hero 6",
+      "titleOther": "&nbsp;/&nbsp;大英雄联盟(港)  /  大英雄天团(台)",
+      "info": "8.6",
+      "viewNumber": "405614人评价",
+      "quote": "Balalala~~~"
+    }, {
+      "numId": 13,
+      "title": "蝙蝠侠：黑暗骑士崛起",
+      "titleEnglish": "&nbsp;/&nbsp;The Dark Knight Rises",
+      "titleOther": "&nbsp;/&nbsp;蝙蝠侠前传3：黑暗骑士崛起  /  黑暗骑士：黎明升起(台)",
+      "info": "8.6",
+      "viewNumber": "318252人评价",
+      "quote": "诺兰就是保证。"
+    }, {
+      "numId": 14,
+      "title": "我是山姆",
+      "titleEnglish": "&nbsp;/&nbsp;I Am Sam",
+      "titleOther": "&nbsp;/&nbsp;不一样的爸爸(港)  /  他不笨，他是我爸爸(台)",
+      "info": "8.8",
+      "viewNumber": "113883人评价",
+      "quote": "爱并不需要智商 。"
+    }, {
+      "numId": 15,
+      "title": "二十二",
+      "titleEnglish": "&nbsp;/&nbsp;Twenty Two  /  22",
+      "info": "8.7",
+      "viewNumber": "112963人评价",
+      "quote": "有一些东西不应该被遗忘。"
+    }, {
+      "numId": 16,
+      "title": "人工智能",
+      "titleEnglish": "&nbsp;/&nbsp;Artificial Intelligence: AI",
+      "titleOther": "&nbsp;/&nbsp;AI人工智慧",
+      "info": "8.6",
+      "viewNumber": "205470人评价",
+      "quote": "对爱的执着，可以超越一切。"
+    }, {
+      "numId": 17,
+      "title": "冰川时代",
+      "titleEnglish": "&nbsp;/&nbsp;Ice Age",
+      "titleOther": "&nbsp;/&nbsp;冰河世纪  /  冰原历险记",
+      "info": "8.4",
+      "viewNumber": "292898人评价",
+      "quote": "松鼠才是角儿。"
+    }, {
+      "numId": 18,
+      "title": "浪潮",
+      "titleEnglish": "&nbsp;/&nbsp;Die Welle",
+      "titleOther": "&nbsp;/&nbsp;恶魔教室(台)  /  白恤暴潮(港)",
+      "info": "8.7",
+      "viewNumber": "143162人评价",
+      "quote": "世界离独裁只有五天。"
+    }, {
+      "numId": 19,
+      "title": "朗读者",
+      "titleEnglish": "&nbsp;/&nbsp;The Reader",
+      "titleOther": "&nbsp;/&nbsp;为爱朗读(台)  /  读爱(港)",
+      "info": "8.5",
+      "viewNumber": "294064人评价",
+      "quote": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 "
+    }, {
+      "numId": 20,
+      "title": "香水",
+      "titleEnglish": "&nbsp;/&nbsp;Perfume: The Story of a Murderer",
+      "titleOther": "&nbsp;/&nbsp;香水：一个杀人犯的故事  /  香水：一个谋杀犯的故事",
+      "info": "8.4",
+      "viewNumber": "296917人评价",
+      "quote": "一个单凭体香达到高潮的男人。"
+    }, {
+      "numId": 21,
+      "title": "爆裂鼓手",
+      "titleEnglish": "&nbsp;/&nbsp;Whiplash",
+      "titleOther": "&nbsp;/&nbsp;鼓动真我(港)  /  进击的鼓手(台)",
+      "info": "8.6",
+      "viewNumber": "258857人评价",
+      "quote": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。"
+    }, {
+      "numId": 22,
+      "title": "罗生门",
+      "titleEnglish": "&nbsp;/&nbsp;羅生門",
+      "titleOther": "&nbsp;/&nbsp;Rashomon",
+      "info": "8.7",
+      "viewNumber": "136495人评价",
+      "quote": "人生的N种可能性。"
+    }, {
+      "numId": 23,
+      "title": "未麻的部屋",
+      "titleEnglish": "&nbsp;/&nbsp;Perfect Blue",
+      "titleOther": "&nbsp;/&nbsp;蓝色的恐惧  /  蓝色恐惧",
+      "info": "8.8",
+      "viewNumber": "108648人评价",
+      "quote": "好的剧本是，就算你猜到了结局也猜不到全部。"
+    }, {
+      "numId": 24,
+      "title": "达拉斯买家俱乐部",
+      "titleEnglish": "&nbsp;/&nbsp;Dallas Buyers Club",
+      "titleOther": "&nbsp;/&nbsp;续命枭雄(港)  /  药命俱乐部(台)",
+      "info": "8.7",
+      "viewNumber": "190237人评价",
+      "quote": "Jared Leto的腿比女人还美！"
+    }, {
+      "numId": 25,
+      "title": "一次别离",
+      "titleEnglish": "&nbsp;/&nbsp;جدایی نادر از سیمین",
+      "titleOther": "&nbsp;/&nbsp;分居风暴(台)  /  伊朗式分居(港)",
+      "info": "8.7",
+      "viewNumber": "141860人评价",
+      "quote": "只有有信仰的人才能说出事实真相。"
+    }, {
+      "numId": 1,
+      "title": "追随",
+      "titleEnglish": "&nbsp;/&nbsp;Following",
+      "titleOther": "&nbsp;/&nbsp;跟踪(台)  /  致命追踪",
+      "info": "8.9",
+      "viewNumber": "88144人评价",
+      "quote": "诺兰的牛逼来源于内心散发出的恐惧。"
+    }, {
+      "numId": 2,
+      "title": "阿飞正传",
+      "titleEnglish": "&nbsp;/&nbsp;阿飛正傳",
+      "titleOther": "&nbsp;/&nbsp;Days of Being Wild",
+      "info": "8.5",
+      "viewNumber": "221290人评价",
+      "quote": "王家卫是一种风格，张国荣是一个代表。"
+    }, {
+      "numId": 3,
+      "title": "可可西里",
+      "titleEnglish": "&nbsp;/&nbsp;Kekexili: Mountain Patrol",
+      "info": "8.7",
+      "viewNumber": "138636人评价",
+      "quote": "坚硬的信仰。"
+    }, {
+      "numId": 4,
+      "title": "撞车",
+      "titleEnglish": "&nbsp;/&nbsp;Crash",
+      "titleOther": "&nbsp;/&nbsp;冲击效应  /  冲撞",
+      "info": "8.6",
+      "viewNumber": "184839人评价",
+      "quote": "天使与魔鬼的冲撞。"
+    }, {
+      "numId": 5,
+      "title": "恐怖游轮",
+      "titleEnglish": "&nbsp;/&nbsp;Triangle",
+      "titleOther": "&nbsp;/&nbsp;汪洋血迷宮(台)  /  轮回三角",
+      "info": "8.3",
+      "viewNumber": "355372人评价",
+      "quote": "不要企图在重复中寻找已经失去的爱。"
+    }, {
+      "numId": 6,
+      "title": "战争之王",
+      "titleEnglish": "&nbsp;/&nbsp;Lord of War",
+      "titleOther": "&nbsp;/&nbsp;军火之王(台 / 港) ",
+      "info": "8.6",
+      "viewNumber": "186104人评价",
+      "quote": "做一颗让别人需要你的棋子。"
+    }, {
+      "numId": 7,
+      "title": "被解救的姜戈",
+      "titleEnglish": "&nbsp;/&nbsp;Django Unchained",
+      "titleOther": "&nbsp;/&nbsp;被解放的姜戈  /  决杀令(台)",
+      "info": "8.6",
+      "viewNumber": "278136人评价",
+      "quote": "热血沸腾，那个低俗、性感的无耻混蛋又来了。"
+    }, {
+      "numId": 8,
+      "title": "地球上的星星",
+      "titleEnglish": "&nbsp;/&nbsp;Taare Zameen Par",
+      "titleOther": "&nbsp;/&nbsp;心中的小星星(台)  /  每一个孩子都是特别的",
+      "info": "8.8",
+      "viewNumber": "92662人评价",
+      "quote": "天使保护事件始末。"
+    }, {
+      "numId": 9,
+      "title": "血战钢锯岭",
+      "titleEnglish": "&nbsp;/&nbsp;Hacksaw Ridge",
+      "titleOther": "&nbsp;/&nbsp;钢锯岭  /  钢铁英雄(台)",
+      "info": "8.7",
+      "viewNumber": "348093人评价",
+      "quote": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。"
+    }, {
+      "numId": 10,
+      "title": "梦之安魂曲",
+      "titleEnglish": "&nbsp;/&nbsp;Requiem for a Dream",
+      "titleOther": "&nbsp;/&nbsp;噩梦挽歌(台)  /  迷上瘾(港)",
+      "info": "8.7",
+      "viewNumber": "119540人评价",
+      "quote": "一场没有春天的噩梦。"
+    }, {
+      "numId": 11,
+      "title": "牯岭街少年杀人事件",
+      "titleEnglish": "&nbsp;/&nbsp;牯嶺街少年殺人事件",
+      "titleOther": "&nbsp;/&nbsp;A Brighter Summer Day",
+      "info": "8.7",
+      "viewNumber": "115891人评价",
+      "quote": "弱者送给弱者的一刀。"
+    }, {
+      "numId": 12,
+      "title": "头脑特工队",
+      "titleEnglish": "&nbsp;/&nbsp;Inside Out",
+      "titleOther": "&nbsp;/&nbsp;玩转脑朋友(港)  /  脑筋急转弯(台)",
+      "info": "8.7",
+      "viewNumber": "248304人评价",
+      "quote": "愿我们都不用长大，每一座城堡都能永远存在。"
+    }, {
+      "numId": 13,
+      "title": "房间",
+      "titleEnglish": "&nbsp;/&nbsp;Room",
+      "titleOther": "&nbsp;/&nbsp;不存在的房间(台)  /  抖室(港)",
+      "info": "8.8",
+      "viewNumber": "171571人评价",
+      "quote": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。"
+    }, {
+      "numId": 14,
+      "title": "魔女宅急便",
+      "titleEnglish": "&nbsp;/&nbsp;魔女の宅急便",
+      "titleOther": "&nbsp;/&nbsp;魔女琪琪(台)  /  小魔女限时专送",
+      "info": "8.5",
+      "viewNumber": "211070人评价",
+      "quote": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。"
+    }, {
+      "numId": 15,
+      "title": "谍影重重",
+      "titleEnglish": "&nbsp;/&nbsp;The Bourne Identity",
+      "titleOther": "&nbsp;/&nbsp;叛谍追击(港)  /  神鬼认证(台)",
+      "info": "8.5",
+      "viewNumber": "205235人评价",
+      "quote": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。"
+    }, {
+      "numId": 16,
+      "title": "谍影重重2",
+      "titleEnglish": "&nbsp;/&nbsp;The Bourne Supremacy",
+      "titleOther": "&nbsp;/&nbsp;叛谍追击2：机密圈套(港)  /  神鬼认证：神鬼疑云(台)",
+      "info": "8.6",
+      "viewNumber": "170350人评价",
+      "quote": "谁说王家卫镜头很晃？"
+    }, {
+      "numId": 17,
+      "title": "惊魂记",
+      "titleEnglish": "&nbsp;/&nbsp;Psycho",
+      "titleOther": "&nbsp;/&nbsp;精神病患者  /  触目惊心",
+      "info": "8.9",
+      "viewNumber": "90625人评价",
+      "quote": "故事的反转与反转，分裂电影的始祖。"
+    }, {
+      "numId": 18,
+      "title": "忠犬八公物语",
+      "titleEnglish": "&nbsp;/&nbsp;ハチ公物語",
+      "titleOther": "&nbsp;/&nbsp;八千公物语  /  阿八的故事",
+      "info": "9.0",
+      "viewNumber": "65783人评价",
+      "quote": "养狗三日，便会对你终其一生。"
+    }, {
+      "numId": 19,
+      "title": "青蛇",
+      "titleEnglish": "&nbsp;/&nbsp;Green Snake",
+      "info": "8.4",
+      "viewNumber": "238172人评价",
+      "quote": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。"
+    }, {
+      "numId": 20,
+      "title": "模仿游戏",
+      "titleEnglish": "&nbsp;/&nbsp;The Imitation Game",
+      "titleOther": "&nbsp;/&nbsp;解码游戏(港)  /  模拟游戏",
+      "info": "8.6",
+      "viewNumber": "276245人评价",
+      "quote": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。"
+    }, {
+      "numId": 21,
+      "title": "再次出发之纽约遇见你",
+      "titleEnglish": "&nbsp;/&nbsp;Begin Again",
+      "titleOther": "&nbsp;/&nbsp;再次出发  /  歌曲改变人生",
+      "info": "8.5",
+      "viewNumber": "185806人评价",
+      "quote": "爱我就给我看你的播放列表。"
+    }, {
+      "numId": 22,
+      "title": "无人知晓",
+      "titleEnglish": "&nbsp;/&nbsp;誰も知らない",
+      "titleOther": "&nbsp;/&nbsp;谁知赤子心  /  无人知晓的夏日清晨",
+      "info": "9.0",
+      "viewNumber": "68049人评价",
+      "quote": "我的平常生活就是他人的幸福。"
+    }, {
+      "numId": 23,
+      "title": "东京物语",
+      "titleEnglish": "&nbsp;/&nbsp;東京物語",
+      "titleOther": "&nbsp;/&nbsp;东京故事  /  Tokyo Story",
+      "info": "9.2",
+      "viewNumber": "55495人评价",
+      "quote": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。"
+    }, {
+      "numId": 24,
+      "title": "哪吒闹海",
+      "titleEnglish": "&nbsp;/&nbsp;Prince Nezha's Triumph Against Dragon King  /  Nezha nao hai",
+      "info": "8.9",
+      "viewNumber": "87374人评价",
+      "quote": "想你时你在闹海。"
+    }, {
+      "numId": 25,
+      "title": "一个叫欧维的男人决定去死",
+      "titleEnglish": "&nbsp;/&nbsp;En man som heter Ove",
+      "titleOther": "&nbsp;/&nbsp;明天别再来敲门(台)  /  想死冇咁易(港)",
+      "info": "8.7",
+      "viewNumber": "133429人评价",
+      "quote": "惠及一生的美丽。"
+    }, {
+      "numId": 1,
+      "title": "小萝莉的猴神大叔",
+      "titleEnglish": "&nbsp;/&nbsp;Bajrangi Bhaijaan",
+      "titleOther": "&nbsp;/&nbsp;娃娃返乡任务(台)  /  宝莱坞之钢铁奶爸(台)",
+      "info": "8.5",
+      "viewNumber": "175716人评价"
+    }, {
+      "numId": 2,
+      "title": "碧海蓝天",
+      "titleEnglish": "&nbsp;/&nbsp;Le grand bleu",
+      "titleOther": "&nbsp;/&nbsp;碧海情深  /  夜海倾情",
+      "info": "8.7",
+      "viewNumber": "111989人评价",
+      "quote": "在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。"
+    }, {
+      "numId": 3,
+      "title": "完美陌生人",
+      "titleEnglish": "&nbsp;/&nbsp;Perfetti sconosciuti",
+      "titleOther": "&nbsp;/&nbsp;完美谎情(港)  /  波动的信息分享",
+      "info": "8.6",
+      "viewNumber": "217954人评价"
+    }, {
+      "numId": 4,
+      "title": "你的名字。",
+      "titleEnglish": "&nbsp;/&nbsp;君の名は。",
+      "titleOther": "&nbsp;/&nbsp;你的名字  /  君之名",
+      "info": "8.4",
+      "viewNumber": "518663人评价",
+      "quote": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。"
+    }, {
+      "numId": 5,
+      "title": "末路狂花",
+      "titleEnglish": "&nbsp;/&nbsp;Thelma &amp; Louise",
+      "titleOther": "&nbsp;/&nbsp;塞尔玛与路易丝  /  末路狂花",
+      "info": "8.7",
+      "viewNumber": "112657人评价",
+      "quote": "没有了退路，只好飞向自由。"
+    }, {
+      "numId": 6,
+      "title": "源代码",
+      "titleEnglish": "&nbsp;/&nbsp;Source Code",
+      "titleOther": "&nbsp;/&nbsp;启动原始码(台)  /  危机解密(港)",
+      "info": "8.3",
+      "viewNumber": "433808人评价",
+      "quote": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。"
+    }, {
+      "numId": 7,
+      "title": "终结者2：审判日",
+      "titleEnglish": "&nbsp;/&nbsp;Terminator 2: Judgment Day",
+      "titleOther": "&nbsp;/&nbsp;终结者2  /  终结者2：末日审判",
+      "info": "8.6",
+      "viewNumber": "150879人评价",
+      "quote": "少见的超越首部的续集，动作片中的经典。"
+    }, {
+      "numId": 8,
+      "title": "秒速5厘米",
+      "titleEnglish": "&nbsp;/&nbsp;秒速5センチメートル",
+      "titleOther": "&nbsp;/&nbsp;秒速五厘米  /  秒速5公分",
+      "info": "8.3",
+      "viewNumber": "321023人评价",
+      "quote": "青春就是放弃和怀念。"
+    }, {
+      "numId": 9,
+      "title": "黑客帝国3：矩阵革命",
+      "titleEnglish": "&nbsp;/&nbsp;The Matrix Revolutions",
+      "titleOther": "&nbsp;/&nbsp;骇客任务完结篇：最后战役  /  廿二世纪杀人网络3：惊变世纪",
+      "info": "8.5",
+      "viewNumber": "167569人评价",
+      "quote": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。"
+    }, {
+      "numId": 10,
+      "title": "新龙门客栈",
+      "titleEnglish": "&nbsp;/&nbsp;新龍門客棧",
+      "titleOther": "&nbsp;/&nbsp;New Dragon Gate Inn",
+      "info": "8.5",
+      "viewNumber": "197879人评价",
+      "quote": "嬉笑怒骂，调风动月。"
+    }, {
+      "numId": 11,
+      "title": "绿里奇迹",
+      "titleEnglish": "&nbsp;/&nbsp;The Green Mile",
+      "titleOther": "&nbsp;/&nbsp;绿色奇迹(台)  /  绿色英里",
+      "info": "8.7",
+      "viewNumber": "113721人评价",
+      "quote": "天使暂时离开。"
+    }, {
+      "numId": 12,
+      "title": "海盗电台",
+      "titleEnglish": "&nbsp;/&nbsp;The Boat That Rocked",
+      "titleOther": "&nbsp;/&nbsp;出位乐人谷(港)  /  海盗电波",
+      "info": "8.6",
+      "viewNumber": "172539人评价",
+      "quote": "生命不止，摇滚不死。"
+    }, {
+      "numId": 13,
+      "title": "这个男人来自地球",
+      "titleEnglish": "&nbsp;/&nbsp;The Man from Earth",
+      "titleOther": "&nbsp;/&nbsp;地球不死人(港)  /  这个人来自洞穴",
+      "info": "8.5",
+      "viewNumber": "195552人评价",
+      "quote": "科幻真正的魅力不是视觉效果能取代的。 "
+    }, {
+      "numId": 14,
+      "title": "勇闯夺命岛",
+      "titleEnglish": "&nbsp;/&nbsp;The Rock",
+      "titleOther": "&nbsp;/&nbsp;石破天惊  /  绝地任务",
+      "info": "8.6",
+      "viewNumber": "150088人评价",
+      "quote": "类型片的极致。 "
+    }, {
+      "numId": 15,
+      "title": "城市之光",
+      "titleEnglish": "&nbsp;/&nbsp;City Lights",
+      "titleOther": "&nbsp;/&nbsp;City Lights: A Comedy Romance in Pantomime  /  Lichter der Großstadt",
+      "info": "9.2",
+      "viewNumber": "47993人评价",
+      "quote": "永远的小人物，伟大的卓别林。"
+    }, {
+      "numId": 16,
+      "title": "卡萨布兰卡",
+      "titleEnglish": "&nbsp;/&nbsp;Casablanca",
+      "titleOther": "&nbsp;/&nbsp;北非谍影(港)  /  卡萨布兰卡",
+      "info": "8.6",
+      "viewNumber": "132422人评价",
+      "quote": "世界上有那么多女人那么多酒馆，但她偏偏走进我的这家。"
+    }, {
+      "numId": 17,
+      "title": "无耻混蛋",
+      "titleEnglish": "&nbsp;/&nbsp;Inglourious Basterds",
+      "titleOther": "&nbsp;/&nbsp;恶棍特工(台)  /  希魔撞正杀人狂(港)",
+      "info": "8.4",
+      "viewNumber": "237213人评价",
+      "quote": "昆汀同学越来越变态了，比北野武还杜琪峰。"
+    }, {
+      "numId": 18,
+      "title": "初恋这件小事",
+      "titleEnglish": "&nbsp;/&nbsp;สิ่งเล็กเล็กที่เรียกว่า...รัก",
+      "titleOther": "&nbsp;/&nbsp;初恋那件小事(港)  /  暗恋那点小事",
+      "info": "8.3",
+      "viewNumber": "492476人评价",
+      "quote": "黑小鸭速效美白记。"
+    }, {
+      "numId": 19,
+      "title": "变脸",
+      "titleEnglish": "&nbsp;/&nbsp;Face/Off",
+      "titleOther": "&nbsp;/&nbsp;夺面双雄",
+      "info": "8.4",
+      "viewNumber": "226473人评价",
+      "quote": "当发哥的风衣、墨镜出现在了凯奇身上⋯⋯"
+    }, {
+      "numId": 20,
+      "title": "发条橙",
+      "titleEnglish": "&nbsp;/&nbsp;A Clockwork Orange",
+      "titleOther": "&nbsp;/&nbsp;发条桔子  /  发条橙子",
+      "info": "8.4",
+      "viewNumber": "196716人评价",
+      "quote": "我完全康复了。"
+    }, {
+      "numId": 21,
+      "title": "E.T. 外星人",
+      "titleEnglish": "&nbsp;/&nbsp;E.T.: The Extra-Terrestrial",
+      "titleOther": "&nbsp;/&nbsp;外星人E.T.  /  外星人",
+      "info": "8.5",
+      "viewNumber": "163708人评价",
+      "quote": "生病的E.T.皮肤的颜色就像柿子饼。"
+    }, {
+      "numId": 22,
+      "title": "黄金三镖客",
+      "titleEnglish": "&nbsp;/&nbsp;Il buono, il brutto, il cattivo.",
+      "titleOther": "&nbsp;/&nbsp;好·坏·丑  /  独行侠决斗地狱门(港)",
+      "info": "9.1",
+      "viewNumber": "55292人评价",
+      "quote": "最棒的西部片。"
+    }, {
+      "numId": 23,
+      "title": "爱在午夜降临前",
+      "titleEnglish": "&nbsp;/&nbsp;Before Midnight",
+      "titleOther": "&nbsp;/&nbsp;爱在午夜希腊时(台)  /  情约半生(港)",
+      "info": "8.8",
+      "viewNumber": "125624人评价",
+      "quote": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。"
+    }, {
+      "numId": 24,
+      "title": "美国丽人",
+      "titleEnglish": "&nbsp;/&nbsp;American Beauty",
+      "titleOther": "&nbsp;/&nbsp;美丽有罪(港)  /  美国心·玫瑰情(台)",
+      "info": "8.4",
+      "viewNumber": "196293人评价",
+      "quote": "每个人的内心都是深不可测的大海。 "
+    }, {
+      "numId": 25,
+      "title": "荒野生存",
+      "titleEnglish": "&nbsp;/&nbsp;Into the Wild",
+      "titleOther": "&nbsp;/&nbsp;浪荡天涯(港)  /  阿拉斯加之死(台)",
+      "info": "8.6",
+      "viewNumber": "134841人评价",
+      "quote": "出门必备：本草纲目。"
+    }, {
+      "numId": 1,
+      "title": "迁徙的鸟",
+      "titleEnglish": "&nbsp;/&nbsp;Le peuple migrateur",
+      "titleOther": "&nbsp;/&nbsp;鸟的迁徙  /  鸟与梦飞行",
+      "info": "9.1",
+      "viewNumber": "53916人评价",
+      "quote": "最美的飞翔。"
+    }, {
+      "numId": 2,
+      "title": "无敌破坏王",
+      "titleEnglish": "&nbsp;/&nbsp;Wreck-It Ralph",
+      "titleOther": "&nbsp;/&nbsp;破坏王拉尔夫  /  破坏王大冒险",
+      "info": "8.6",
+      "viewNumber": "197243人评价",
+      "quote": "迪士尼和皮克斯拿错剧本的产物。"
+    }, {
+      "numId": 3,
+      "title": "步履不停",
+      "titleEnglish": "&nbsp;/&nbsp;歩いても 歩いても",
+      "titleOther": "&nbsp;/&nbsp;横山家之味(港)  /  步伐不停",
+      "info": "8.8",
+      "viewNumber": "85099人评价",
+      "quote": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。"
+    }, {
+      "numId": 4,
+      "title": "疯狂的石头",
+      "titleEnglish": "&nbsp;/&nbsp;Crazy Stone",
+      "info": "8.3",
+      "viewNumber": "339349人评价",
+      "quote": "中国版《两杆大烟枪》。"
+    }, {
+      "numId": 5,
+      "title": "英国病人",
+      "titleEnglish": "&nbsp;/&nbsp;The English Patient",
+      "titleOther": "&nbsp;/&nbsp;英伦情人(台)  /  别问我是谁(港)",
+      "info": "8.4",
+      "viewNumber": "181729人评价",
+      "quote": "In memory, love lives forever..."
+    }, {
+      "numId": 6,
+      "title": "燕尾蝶",
+      "titleEnglish": "&nbsp;/&nbsp;スワロウテイル",
+      "titleOther": "&nbsp;/&nbsp;Swallowtail Butterfly  /  Suwarôteiru",
+      "info": "8.6",
+      "viewNumber": "112048人评价",
+      "quote": "现实与童话交相辉映的旅程。"
+    }, {
+      "numId": 7,
+      "title": "非常嫌疑犯",
+      "titleEnglish": "&nbsp;/&nbsp;The Usual Suspects",
+      "titleOther": "&nbsp;/&nbsp;刺激惊爆点(台)  /  普通嫌疑犯",
+      "info": "8.6",
+      "viewNumber": "123718人评价",
+      "quote": "我不信仰上帝，但我敬畏上帝。"
+    }, {
+      "numId": 8,
+      "title": "彗星来的那一夜",
+      "titleEnglish": "&nbsp;/&nbsp;Coherence",
+      "titleOther": "&nbsp;/&nbsp;相干性  /  相干效应",
+      "info": "8.4",
+      "viewNumber": "196302人评价",
+      "quote": "小成本大魅力。"
+    }, {
+      "numId": 9,
+      "title": "勇士",
+      "titleEnglish": "&nbsp;/&nbsp;Warrior",
+      "titleOther": "&nbsp;/&nbsp;勇者无敌(台)  /  钢铁斗士(港)",
+      "info": "8.9",
+      "viewNumber": "92255人评价",
+      "quote": "热血沸腾，相当完美的娱乐拳击大餐。"
+    }, {
+      "numId": 10,
+      "title": "国王的演讲",
+      "titleEnglish": "&nbsp;/&nbsp;The King's Speech",
+      "titleOther": "&nbsp;/&nbsp;皇上无话儿(港)  /  王者之声：宣战时刻(台)",
+      "info": "8.3",
+      "viewNumber": "360165人评价",
+      "quote": "皇上无话儿。"
+    }, {
+      "numId": 11,
+      "title": "血钻",
+      "titleEnglish": "&nbsp;/&nbsp;Blood Diamond",
+      "titleOther": "&nbsp;/&nbsp;血腥钻石  /  滴血钻石",
+      "info": "8.5",
+      "viewNumber": "142292人评价",
+      "quote": "每个美丽事物背后都是滴血的现实。"
+    }, {
+      "numId": 12,
+      "title": "叫我第一名",
+      "titleEnglish": "&nbsp;/&nbsp;Front of the Class",
+      "titleOther": "&nbsp;/&nbsp;站在教室前  /  讲台前的我",
+      "info": "8.6",
+      "viewNumber": "114776人评价",
+      "quote": "乐观比一切都有力量。"
+    }, {
+      "numId": 13,
+      "title": "穆赫兰道",
+      "titleEnglish": "&nbsp;/&nbsp;Mulholland Dr.",
+      "titleOther": "&nbsp;/&nbsp;穆荷兰大道(台)  /  失忆大道(港)",
+      "info": "8.3",
+      "viewNumber": "248282人评价",
+      "quote": "大卫·林奇的梦境迷宫。"
+    }, {
+      "numId": 14,
+      "title": "海街日记",
+      "titleEnglish": "&nbsp;/&nbsp;海街diary",
+      "titleOther": "&nbsp;/&nbsp;海街女孩日记(港)  /  Kamakura Diary",
+      "info": "8.6",
+      "viewNumber": "140984人评价"
+    }, {
+      "numId": 15,
+      "title": "聚焦",
+      "titleEnglish": "&nbsp;/&nbsp;Spotlight",
+      "titleOther": "&nbsp;/&nbsp;焦点追击(港)  /  惊爆焦点(台)",
+      "info": "8.8",
+      "viewNumber": "137241人评价"
+    }, {
+      "numId": 16,
+      "title": "上帝也疯狂",
+      "titleEnglish": "&nbsp;/&nbsp;The Gods Must Be Crazy",
+      "titleOther": "&nbsp;/&nbsp;众神也疯狂 (上)  /  上帝一定发疯了 (上)",
+      "info": "8.6",
+      "viewNumber": "101192人评价",
+      "quote": "纯净原始的笑与感动。"
+    }, {
+      "numId": 17,
+      "title": "枪火",
+      "titleEnglish": "&nbsp;/&nbsp;鎗火",
+      "titleOther": "&nbsp;/&nbsp;The Mission",
+      "info": "8.6",
+      "viewNumber": "106220人评价",
+      "quote": "一群演技精湛的戏骨，奉献出一个精致的黑帮小品，成就杜琪峰群戏的巅峰之作。"
+    }, {
+      "numId": 18,
+      "title": "我爱你",
+      "titleEnglish": "&nbsp;/&nbsp;그대를 사랑합니다",
+      "titleOther": "&nbsp;/&nbsp;爱你  /  爱，是一生相伴(台)",
+      "info": "9.0",
+      "viewNumber": "62193人评价",
+      "quote": "你要相信，这世上真的有爱存在，不管在什么年纪 "
+    }, {
+      "numId": 19,
+      "title": "遗愿清单",
+      "titleEnglish": "&nbsp;/&nbsp;The Bucket List",
+      "titleOther": "&nbsp;/&nbsp;玩转身前事(港)  /  一路玩到挂(台)",
+      "info": "8.5",
+      "viewNumber": "138987人评价",
+      "quote": "用剩余不多的时间，去燃烧整个生命。"
+    }, {
+      "numId": 20,
+      "title": "大卫·戈尔的一生",
+      "titleEnglish": "&nbsp;/&nbsp;The Life of David Gale",
+      "titleOther": "&nbsp;/&nbsp;铁案悬谜  /  命悬一线",
+      "info": "8.6",
+      "viewNumber": "100822人评价",
+      "quote": "捍卫人权只是信仰，一点不妨碍其行为的残忍。"
+    }, {
+      "numId": 21,
+      "title": "黑鹰坠落",
+      "titleEnglish": "&nbsp;/&nbsp;Black Hawk Down",
+      "titleOther": "&nbsp;/&nbsp;黑鹰降落  /  黑鹰计划",
+      "info": "8.5",
+      "viewNumber": "124245人评价",
+      "quote": "还原真实而残酷的战争。"
+    }, {
+      "numId": 22,
+      "title": "荒岛余生",
+      "titleEnglish": "&nbsp;/&nbsp;Cast Away",
+      "titleOther": "&nbsp;/&nbsp;浩劫重生(台)  /  劫后重生(港)",
+      "info": "8.5",
+      "viewNumber": "143314人评价",
+      "quote": "一个人的独角戏。"
+    }, {
+      "numId": 23,
+      "title": "蓝色大门",
+      "titleEnglish": "&nbsp;/&nbsp;藍色大門",
+      "titleOther": "&nbsp;/&nbsp;蓝色夏恋  /  Blue Gate Crossing",
+      "info": "8.3",
+      "viewNumber": "283533人评价",
+      "quote": "青春的窃窃私语。 "
+    }, {
+      "numId": 24,
+      "title": "千钧一发",
+      "titleEnglish": "&nbsp;/&nbsp;Gattaca",
+      "titleOther": "&nbsp;/&nbsp;变种异煞  /  自然人",
+      "info": "8.7",
+      "viewNumber": "92482人评价",
+      "quote": "一部能引人思考的科幻励志片。"
+    }, {
+      "numId": 25,
+      "title": "爱·回家",
+      "titleEnglish": "&nbsp;/&nbsp;집으로...",
+      "titleOther": "&nbsp;/&nbsp;外婆的家  /  回家路上",
+      "info": "9.0",
+      "viewNumber": "50187人评价",
+      "quote": "献给所有外婆的电影。"
+    }
+
+  ]
+}
